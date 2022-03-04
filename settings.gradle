@@ -1,0 +1,2 @@
+rootProject.name = "RecyclerViewWithStaggeredgridlayoutmanager"
+include ':app'
